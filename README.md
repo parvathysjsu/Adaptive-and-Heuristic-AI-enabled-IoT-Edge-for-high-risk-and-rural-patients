@@ -7,6 +7,6 @@ Adaptive-and-Heuristic-AI-enabled-IoT-Edge-for-high-risk-and-rural-patients<br>
 |_machinelearning<br>
 &nbsp;&nbsp;&nbsp;|__respiratory<br>
 &nbsp;&nbsp;&nbsp;|__fall<br>
-|_mobileapp  <br>
-|_webapp<br>
+|_HealthCareAIApp  <br>
+|_healthcare-ai-fe<br>
   
